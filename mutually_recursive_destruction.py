@@ -58,3 +58,29 @@ i.attach_to(you)
 assert(me == you.bound)
 assert(you == me.bound)
 you.drain(me)
+
+"""
+You and I
+We are bound to each other.
+A bond that will smother
+We engulf one another.
+I give
+you give
+and you take
+and I take
+I give
+you give
+and you take
+and I take
+I give
+and I take
+and you take
+and I take
+and you take
+and I take
+and you take
+and I take
+and you take
+until you have nothing left to give
+until you have nothing left to take
+"""
